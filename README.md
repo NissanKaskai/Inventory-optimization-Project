@@ -1,5 +1,6 @@
 # Inventory-optimization-Project
 Inventory optimization problem with data from Amazon (Python)
+
 **Versione in italiano**
 Questo progetto è stato fatto nell'ambito del corso universitario (Università Ca' Foscari di Venezia) in "Managerial Decision Making and Modelling" col linguaggio di programmazione Python.
 
